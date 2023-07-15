@@ -1,0 +1,6 @@
+﻿  Tax_Assessment_Calculator_2.cpp
+C:\AWS\Tax_Assessment_Calculator_2\Tax_Assessment_Calculator_2.cpp(45,6): warning C4838: conversion from '__int64' to 'float' requires a narrowing conversion
+C:\AWS\Tax_Assessment_Calculator_2\Tax_Assessment_Calculator_2.cpp(46,1): warning C4305: 'initializing': truncation from '__int64' to 'float'
+C:\AWS\Tax_Assessment_Calculator_2\Tax_Assessment_Calculator_2.cpp(281,100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\AWS\Tax_Assessment_Calculator_2\Tax_Assessment_Calculator_2.cpp(525,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Tax_Assessment_Calculator_2.vcxproj -> C:\AWS\Tax_Assessment_Calculator_2\x64\Debug\Tax_Assessment_Calculator_2.exe
